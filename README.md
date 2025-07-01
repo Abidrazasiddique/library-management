@@ -5,7 +5,8 @@
 #1. Create Directory
 
 #2. Clone Repository - 
-git clone  https://github.com/Pooja-Patidar34/Library-Management-System.git
+git clone 
+https://github.com/Abidrazasiddique/library-management.git
 
 #3. pip install -m requirement.txt
 
